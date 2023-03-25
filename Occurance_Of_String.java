@@ -10,6 +10,7 @@ public class Occurance_Of_String {
         int cnt=0;
         int i=-1;
         i=s.indexOf(ocr);
+
         while(i!=-1)
         {
             cnt++;
